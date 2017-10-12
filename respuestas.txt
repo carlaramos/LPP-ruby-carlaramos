@@ -1,2 +1,3 @@
 Respuestas de primeros pasos en Ruby
 31. Existen dos ramas, la local donde se encuentra el master, y la remota donde está el doc, ya que aun no hemos traido los cambios a local de esta última
+42. El HEAD se encuentra en doc.
