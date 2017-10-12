@@ -3,3 +3,4 @@ Respuestas de primeros pasos en Ruby
 42. El HEAD se encuentra en doc.
 49. Las ramas doc y master se encuentran reorganizadas en la misma, y en ellas se encuentra el HEAD
 62. RVM es una herramienta que nos permite gestionar las distintas versiones de Ruby
+69. La diferencia es que con el fichero, se tiene que hacer uso del intérprete
